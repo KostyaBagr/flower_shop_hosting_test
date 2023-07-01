@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-i_u^s0#l@rtit#3aj91vpb*^glmarxrb+akuzvnv!y8t6kh_$r
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['flower-shop-3rd6.onrender.com']
 
 INTERNAL_IPS = [
     # ...
